@@ -18,7 +18,7 @@ class Dater
     /**
      * @return string
      */
-    public function getData() : string
+    public function getData1() : string
     {
         echo $this->data;
     }
